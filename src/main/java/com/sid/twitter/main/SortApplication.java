@@ -59,10 +59,10 @@ public class SortApplication {
     }
 
     public static void add(int a, int b){
-        int sumValue=sum(11, 12);
+        sum(11, 12);
     }
 
-    public static int sum(int a, int b){
-        return a+b;
+    public static void sum(int a, int b){
+        System.out.println(a+b);
     }
 }
