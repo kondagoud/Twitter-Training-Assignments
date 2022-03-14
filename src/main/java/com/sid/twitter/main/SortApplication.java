@@ -59,7 +59,7 @@ public class SortApplication {
     }
 
     public static void add(int a, int b){
-        int sumValue=sum(15, 16);
+        int sumValue=sum(100, 200);
     }
 
     public static int sum(int a, int b){
